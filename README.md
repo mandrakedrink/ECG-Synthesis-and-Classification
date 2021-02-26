@@ -1,4 +1,4 @@
-# ECG-Sinthesis-and-Classification
+# ECG-Synthesis-and-Classification
 1D GAN for ECG Synthesis and 3 models: CNN, CNN with LSTM, and CNN with LSTM and Attention mechanism for ECG Classification
 
 ## Motivation 
