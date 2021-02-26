@@ -1,5 +1,5 @@
 # ECG-Synthesis-and-Classification
-1D GAN for ECG Synthesis and 3 models: CNN with skip-connections, CNN with LSTM, and CNN with LSTM and Attention mechanism for ECG Classification
+1D GAN for ECG Synthesis and 3 models: CNN with skip-connections, CNN with LSTM, and CNN with LSTM and Attention mechanism for ECG Classification.
 
 ## Motivation 
 ECG is widely used by cardiologists and medical practitioners for monitoring the cardiac health. The main problem
